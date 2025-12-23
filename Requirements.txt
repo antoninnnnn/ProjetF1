@@ -1,0 +1,15 @@
+Librairies nécesaires dans notre code :
+
+- numpy
+
+- pandas
+
+- matplotlib
+
+- seaborn
+
+- scipy
+
+- scikit-learn
+
+- xgboost
