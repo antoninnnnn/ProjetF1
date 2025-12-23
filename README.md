@@ -12,7 +12,7 @@ La Formule 1 est un sport régi par des milliers de variables. L'objectif est de
 
 ## Structure du Projet
 
-Le projet est centralisé dans le notebook principal (actuellement `Propre.ipynb`), qui suit cette logique :
+Le projet est centralisé dans le notebook principal (actuellement `F1_prediction.ipynb`), qui suit cette logique :
 
 1.  **Ingestion des Données** : Chargement de 14 datasets interconnectés (via Kaggle).
 2.  **Audit & Nettoyage** :
