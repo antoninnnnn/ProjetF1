@@ -39,7 +39,7 @@ Le projet est centralisé dans le notebook principal (actuellement `F1_predictio
     cd F1-Winner-Prediction
     ```
 
-2.  **Installer les dépendances** (celles-ci sont listées dans `Requirements.txt`:
+2.  **Installer les dépendances** (celles-ci sont listées dans `Requirements.txt`):
     ```bash
     pip install pandas numpy matplotlib seaborn scikit-learn xgboost scipy
     ```
