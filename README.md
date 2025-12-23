@@ -1,5 +1,9 @@
 # Prédiction de l'écurie vainqueure d'un Grand Prix de Formule 1
 
+Projet scolaire réalisé par : Adèle Courteille, Mathias Cottinet et Antonin Faucillon
+
+---
+
 Notre projet a pour but d'explorer l'historique des données de la Formule 1 (de 1950 à aujourd'hui) pour construire un modèle capable de prédire quelle écurie (Constructeur) remportera une course donnée. 
 
 ## Nos objectifs
